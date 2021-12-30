@@ -1,0 +1,1 @@
+<p> Your OTP_NO IS {{$name}}</p>

@@ -1,0 +1,13 @@
+[14-Jul-2021 11:43:59 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\CategoryController::faveproduct() in /home/dqgu165su394/public_html/mole/app/Http/Controllers/API/CategoryController.php on line 349
+[14-Jul-2021 13:41:05 UTC] PHP Fatal error:  Trait 'App\Traits\SendMail' not found in /home/dqgu165su394/public_html/mole/app/Http/Controllers/API/OrderController.php on line 12
+[14-Jul-2021 13:41:59 UTC] PHP Fatal error:  Cannot use App\Traits\SendMail as SendMail because the name is already in use in /home/dqgu165su394/public_html/mole/app/Http/Controllers/API/OrderController.php on line 11
+[17-Jul-2021 02:41:17 UTC] PHP Fatal error:  Cannot use Auth as Auth because the name is already in use in /home/dqgu165su394/public_html/mole/app/Http/Controllers/API/UserController.php on line 10
+[17-Jul-2021 03:21:57 UTC] PHP Fatal error:  Cannot use HasApiTokens as HasApiTokens because the name is already in use in /home/dqgu165su394/public_html/mole/app/Http/Controllers/API/UserController.php on line 9
+[19-Jul-2021 10:29:35 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\CategoryController::cat() in /home/dqgu165su394/public_html/mole/app/Http/Controllers/API/CategoryController.php on line 147
+[19-Jul-2021 10:32:54 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\CategoryController::cat() in /home/dqgu165su394/public_html/mole/app/Http/Controllers/API/CategoryController.php on line 164
+[20-Jul-2021 13:33:28 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ProductController::FilterProduct() in /home/dqgu165su394/public_html/mole/app/Http/Controllers/API/ProductController.php on line 164
+[20-Jul-2021 13:34:19 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ProductController::FilterProduct() in /home/dqgu165su394/public_html/mole/app/Http/Controllers/API/ProductController.php on line 164
+[20-Jul-2021 13:34:28 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ProductController::FilterProduct() in /home/dqgu165su394/public_html/mole/app/Http/Controllers/API/ProductController.php on line 164
+[20-Jul-2021 13:36:23 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\ProductController::FilterProduct() in /home/dqgu165su394/public_html/mole/app/Http/Controllers/API/ProductController.php on line 164
+[20-Jul-2021 14:59:31 UTC] PHP Fatal error:  Cannot use [] for reading in /home/dqgu165su394/public_html/mole/app/Http/Controllers/API/ProductController.php on line 96
+[22-Jul-2021 08:31:17 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\Api\CartController::addtocart() in /home/dqgu165su394/public_html/mole/app/Http/Controllers/API/CartController.php on line 39
